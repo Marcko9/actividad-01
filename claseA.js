@@ -1,0 +1,4 @@
+class claseA{
+    foo = '';
+    bar = '';
+}
